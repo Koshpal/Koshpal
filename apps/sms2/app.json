@@ -1,0 +1,9 @@
+{
+  "name": "sms2",
+  "displayName": "sms2",
+  "extra": {
+    "eas": {
+      "projectId": "5c574c77-9015-4b65-950b-7976c71c964e"
+    }
+  }
+}
